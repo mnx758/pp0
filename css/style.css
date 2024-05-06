@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'Cruinn';
+    src: url('../fonts/Cruinn Bold.ttf');
+}
+body{
+    background-color: rgb(174, 208, 247);
+}
+.top-menu{
+    height: 100px;
+    background-color: darkcyan;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 0%;
+    text-align: center;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.item{
+    padding-top: 10px;
+    margin-top: 0%;
+    display: inline-block;
+    font-family: Cruinn;
+    text-decoration: none;
+    color: rgb(212, 241, 241);
+    font-size: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.top-text{
+    margin: 0%;
+    display: block;
+    padding-top: 10px;
+    color :#dddbff;
+    font-family: Cruinn;
+}
+.container{
+    padding-top: 5%;
+    padding-left: 7%;
+}
+.images-mice{
+    display: block;
+    height: 200px;
+    margin-top: 20px;
+}
